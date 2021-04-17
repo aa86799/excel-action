@@ -1,0 +1,193 @@
+<string name="en">Hk</string>
+<string name="please_enter_your_mobile_phone_number.">請輸入手機號</string>
+<string name="please_enter_the_sms_verification_code.">請輸入短信驗證碼</string>
+<string name="get_the_verification_code.">獲取驗證碼</string>
+<string name="log_in">登錄</string>
+<string name="don't_have_an_account">還沒有賬號？</string>
+<string name="sign_up">立即註冊</string>
+<string name="other_login_methods">其他登錄方式</string>
+<string name="by_signing_up_and_logging_in_you_agree_to_our_terms_of_service_and_privacy_policy.">登錄註冊即表示同意用戶服務協議和隱私政策</string>
+<string name="choose_a_country">選擇國家</string>
+<string name="please_enter_a_valid_mobile_phone_number.">請輸入正確的手機號</string>
+<string name=""you_have_requested_too_many_sms_codes_recently._please_try_again_later."">驗證碼請求過於頻繁，請稍後再試。</string>
+<string name="the_number_of_sms_sent_today_has_reached_the_upper_limit._please_try_again_tomorrow.">短信發送次數已達上限，請明日再試。</string>
+<string name="the_mobile_phone_number_is_not_registered._please_register_first.">手機號未註冊，請先註冊</string>
+<string name=""the_sms_verification_code_has_been_sent_to_the_provided_phone_number."">驗證碼已經發送至您的手機上</string>
+<string name="【356print】your_login_verification_code_is:_{123456}_valid_for_10_minutes._don't_share_your_verification_code_with_anyone.">【356Print】您的登錄驗證碼為： {123456},
+有效期10分鐘，請不要提供給他人。</string>
+<string name="second">秒</string>
+<string name="please_enter_the_correct_verification_code.">請輸入正確的驗證碼</string>
+<string name="the_verification_code_has_expired._please_request_a_new_one.">短信驗證碼已失效，請重新獲取</string>
+<string name="register">註冊</string>
+<string name="the_phone_number_has_been_registered_please_log_in_directly.">手機號已註冊，請直接登錄</string>
+<string name="【356print】your_registration_verification_code_is:_{123456}_valid_for_10_minutes._don't_share_your_verification_code_with_anyone.">【356Print】您的註冊驗證碼為： {123456},
+有效期10分鐘，請不要提供給他人。</string>
+<string name="registration_successful">註冊成功</string>
+<string name="bind_mobile_phone_number">綁定手機號</string>
+<string name="graphic_printing">圖文打印</string>
+<string name="image_printing">圖片打印</string>
+<string name="qr_code">二維碼</string>
+<string name="barcode">條形碼</string>
+<string name="home">首頁</string>
+<string name="waybill_printing">快遞單打印</string>
+<string name="my">我的</string>
+<string name="print">打印</string>
+<string name="text">文本</string>
+<string name="text_box">文本框</string>
+<string name="image">圖片</string>
+<string name="cut">剪切</string>
+<string name="copy">拷貝</string>
+<string name="paste">粘貼</string>
+<string name="select_all">全選</string>
+<string name="font">字形</string>
+<string name="font_size">字號</string>
+<string name="please_enter">請輸入</string>
+<string name="alignment">對齊</string>
+<string name="indentation">縮進</string>
+<string name="line_spacing">行距</string>
+<string name="spin">旋轉</string>
+<string name="delete">刪除</string>
+<string name="zoom">縮放</string>
+<string name="confirm">確定</string>
+<string name="cancel">取消</string>
+<string name="double_click_to_edit_text">雙擊編輯文本內容</string>
+<string name="do_you_want_to_exit">是否確認退出</string>
+<string name="all_photos">所有照片</string>
+<string name="edit_image">編輯圖片</string>
+<string name="connect_the_device">連接設備</string>
+<string name="the_printer_status_is_abnormal.">打印機狀態異常</string>
+<string name="print_preview">打印預覽</string>
+<string name="print_settings">打印設置</string>
+<string name="print_density">打印濃度</string>
+<string name="quantity">數量</string>
+<string name="print_mode">打印模式</string>
+<string name="graphic">圖文</string>
+<string name="light">淡</string>
+<string name="normal">適中</string>
+<string name="dark">濃</string>
+<string name="number_of_copies">份</string>
+<string name="paper_width">紙寬</string>
+<string name="length">長</string>
+<string name="print_now">立即打印</string>
+<string name="generate">生成</string>
+<string name="please_enter_to_generate_barcode">請輸入生成條形碼</string>
+<string name="please_enter_to_generate_qr_code">請輸入生成二維碼</string>
+<string name="grant_access_to_your_photos">是否允許打開相冊</string>
+<string name="crop">裁剪</string>
+<string name="content_cannot_be_blank.">內容不能為空</string>
+<string name="please_enter_no_more_than_30_characters_including_numbers_letters_and_symbols">請輸入30位以內的數字、字母、符號</string>
+<string name="please_enter_no_more_than_100_characters.">請輸入100位以內的字符</string>
+<string name="if_you_enter_too_many_characters_the_printer_may_fail_to_function_normally.">輸入內容過長可能導致無法正常打印</string>
+<string name="connection_successful">連接成功</string>
+<string name="bluetooth_disconnected_abnormally">藍牙異常斷開</string>
+<string name="do_you_want_to_clear_all_content">確定清除全部內容？</string>
+<string name="select_printer">選擇打印機</string>
+<string name="can't_find_the_printer_please_restart_the_printer_and_try_again.">找不到打印機？請重啟打印機後再試。</string>
+<string name="searching_for_device">正在搜索設備中</string>
+<string name="waybill">快遞單</string>
+<string name="waybill_printing">快遞單打印</string>
+<string name="printed_document_history">歷史打印</string>
+<string name="send">寄</string>
+<string name="receive">收</string>
+<string name="add_a_consignor">添加寄件人</string>
+<string name="add_a_receiver">添加收件人</string>
+<string name="address_book">地址簿</string>
+<string name="select_all">全選</string>
+<string name="sender_address">寄件人地址</string>
+<string name="you_can_copy_the_entire_contact_address_information_from_facebook_line_or_other_sites_and_paste_it_here.">您可以從Facebook,Line或其他位置拷貝整段
+聯繫人地址信息粘貼到此處</string>
+<string name="find_clipboard_content">發現剪切板內容</string>
+<string name="parse">解析</string>
+<string name="consignor">寄件人</string>
+<string name="phone">電話</string>
+<string name="address">詳細地址</string>
+<string name="set_as_the_default_consignor_address">設為默認寄件地址</string>
+<string name="save">保存</string>
+<string name="select_a_consignor_address">選擇寄件人地址</string>
+<string name="create_a_new_address">新建地址</string>
+<string name="please_enter_the_name/phone_number/address">請輸入姓名/手機號/地址</string>
+<string name="long_press_the_address_information_to_set_the_default_consignor_address">長按地址信息設置默認寄件地址</string>
+<string name="default">默認</string>
+<string name="delete">刪除</string>
+<string name="do_you_want_to_save_as_the_default_consignor_address">是否設為默認寄件地址？</string>
+<string name="there_is_no_content.">暫無內容</string>
+<string name="receiver_address">收件人地址</string>
+<string name="select_from_address_book">從地址簿選擇</string>
+<string name="receiver">收件人</string>
+<string name="save_to_address_book">保存到地址簿</string>
+<string name="remarks">備註</string>
+<string name="save_and_add_next">保存並添加下一個</string>
+<string name="select_a_receive_address">選擇收件人地址</string>
+<string name="do_you_want_to_delete_the_recipient_address">確認刪除收件人地址？</string>
+<string name="x_copies_in_total_the_x_copy_is_being_printed.">共×份,正在打印第×份</string>
+<string name="cancel_print">取消打印</string>
+<string name="print_succeeded">打印完成</string>
+<string name="printed_document_history">歷史打印</string>
+<string name="note:_it_only_stores_the_printed_document_history_for_the_last_7_days.">小提示:歷史打印僅保存最近7天的打印內容</string>
+<string name="delete_printed_document_history">確定刪除歷史打印內容</string>
+<string name="my">我的</string>
+<string name="language_settings">語言設置</string>
+<string name="help">幫助</string>
+<string name="feedback">反饋</string>
+<string name="about_us">關於我們</string>
+<string name="sign_out">退出登錄</string>
+<string name="select_a_language">選擇語言</string>
+<string name="faq">常見問題</string>
+<string name="q:_how_to_use_365print_
+a:_you_can_directly_connect_it_to_the_computer_or_search_and_download_the_"365print"_app_in_google_play_and_app_store._after_registration_your_device_will_automatically_find_the_printer._you_could_strat_to_print_after_successful_connection.">Q：365Print打印機如何使用？
+A：可以直接連接電腦使用，也可以在Google Play和APP
+ Store中搜索並下載“365Print” APP，註冊成功後，打印時
+會自動搜索找到打印機，連接成功就可以使用打印功能啦。</string>
+<string name="q:_does_the_365print_printer_need_to_add_ink
+a:_365_print_printer_adopts_thermal_printing_technology_and_does_not_need_ink_ribbon_carbon_or_any_other_consumables._just_put_in_thermal_paper_and_start_printing.">Q：365Print打印機需要加墨嗎？
+A：365 Print 打印機採用熱敏打印技術，不需要墨、色帶或者
+碳等耗材，只需放入熱敏打印紙便可輕鬆打印。</string>
+<string name="q:_can_365print_print_color_images
+a:_currently_365print_prints_black_only.">Q：365Print能打印彩色圖片嗎？
+A：目前僅支持單色黑白打印</string>
+<string name="q:_how_to_change_the_paper_roll_for_365print
+a:_see_the_arrow_indication_on_the_left_side_of_the_printer._gently_push_the_printer_as_instructed_and_then_replace_or_adjust_the_printing_paper.">Q：365Print打印機如何換紙？
+A：查看打印機左側的箭頭指示，按照指示輕輕推開打印機
+即可，然後更換或調整打印紙。</string>
+<string name="q:_what_consumables_is_compatible_with_365print
+a:_365print_is_compatible_with_ordinary_thermal_paper_label_thermal_paper_and_self-adhesive_thermal_paper.">Q：365Print支持什麼耗材？
+A：支持普通熱敏紙，標籤熱敏紙和不干膠熱敏紙。</string>
+<string name="q:_how_long_do_the_prints_last
+a:_the_prints_will_last_from_1_to_10_years_depends_on_different_official_consumables.">Q：打印出來的圖片和文檔可以留影多久？
+A：根據所選官方耗材的留影時長不同而不同，留影時長為
+1—10年不等。</string>
+<string name="feedback">反饋</string>
+<string name="please_describe_your_questions_and_suggestion_in_detail.">請具體描述您的問題和建議</string>
+<string name="picture_(optional_provide_a_screenshot_of_the_problem)">圖片（選填，提供問題截圖）</string>
+<string name="submit">提交</string>
+<string name="take_pictures">拍照</string>
+<string name="photo_gallery">照片圖庫</string>
+<string name="uploaded_successfully">上傳成功</string>
+<string name="upload_failed._pease_try_again.">上傳失敗，請重試</string>
+<string name="please_enter_your_questions_and_suggestions.">請輸入問題與建議</string>
+<string name="thank_you_for_your_feedback._we_will_deal_with_your_problem_in_time.">感謝您的反饋，我們會及時處理您提交的問題</string>
+<string name="submission_failed._please_try_again_later.">提交失敗，請稍後重試</string>
+<string name="version_number">版本號</string>
+<string name="365print_user_service_agreement">365Print用戶服務協議</string>
+<string name="365print_privacy_policy">365Print隱私政策</string>
+<string name="already_the_latest_version">已是最新版本</string>
+<string name="do_you_want_to_log_out">是否確認退出？</string>
+<string name="sms_verification_code">短信驗證碼</string>
+<string name="receiver‘s_name">收件人姓名</string>
+<string name="consignor’s_name">寄件人姓名</string>
+<string name="receiver‘s_phone_number">收件人電話號碼</string>
+<string name="consignor’s_phone_number">寄件人電話號碼</string>
+<string name="name">名稱</string>
+<string name="mobile_phone_number">手機號碼</string>
+<string name="country_code">國家編碼</string>
+<string name="image_verification_code">圖片驗證碼</string>
+<string name="set_as_the_default_consignor_address">設置默認寄件地址</string>
+<string name="upload_image">上傳圖片</string>
+<string name="network_connection_timed_out._please_try_again.">網絡超時，請重試</string>
+<string name="the_information_is_not_filled_in_as_required.">信息未按要求填寫</string>
+<string name="account_login_expired">賬號登錄已過期</string>
+<string name="the_address_already_exists.">地址信息已存在</string>
+<string name="only_one_image_can_be_uploaded.">只能上傳一張圖片</string>
+<string name="can_not_be_blank">不能為空</string>
+<string name="need_to_be_between_{0}_and_{1}">需要在{0}和{1}之間</string>
+<string name="format_error">格式錯誤</string>
