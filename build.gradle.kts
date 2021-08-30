@@ -18,6 +18,7 @@ dependencies {
     implementation(fileTree(mapOf("dir" to "src/main/libs", "include" to listOf("*.jar"))))
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.0.1")
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-core-jvm:1.0.1")
+    implementation("com.google.code.gson:gson:2.8.7")
 }
 
 tasks.test {
